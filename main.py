@@ -1,2 +1,2 @@
 print("Hello Digital Business!")
-print("Hello darling!")
+print("Hello darling")
